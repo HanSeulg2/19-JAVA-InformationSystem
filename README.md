@@ -48,15 +48,16 @@
    
    - 사용자 목록 수정 
    
-   ![사용자 목록 조회](https://user-images.githubusercontent.com/71927210/126896051-dfdcff80-89bb-4c12-83e0-8b9f99ade41d.png)
+   ![사용자 목록 수정](https://user-images.githubusercontent.com/71927210/126896113-534245de-b89f-4764-aa9c-a1189e788bde.png)
    
    - 사용자 목록 삭제 
    
-   ![사용자 목록 조회](https://user-images.githubusercontent.com/71927210/126896051-dfdcff80-89bb-4c12-83e0-8b9f99ade41d.png)
-   
+   ![사용자 목록 삭제](https://user-images.githubusercontent.com/71927210/126896111-244a91ca-f2d5-493e-8b0c-97d9ea696fe2.png)
+
    - 사용자 DB 텍스트 테이블 
    
    ![시용지 DB](https://user-images.githubusercontent.com/71927210/126895966-1357750b-ef9a-4546-82c9-94598fe6ccba.png)
+
 
 
 
