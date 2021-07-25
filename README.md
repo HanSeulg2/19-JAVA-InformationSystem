@@ -32,7 +32,12 @@
     ![사용자 개인정보 수정](https://user-images.githubusercontent.com/71927210/126895703-87341c46-5737-4595-85e4-1c7df65803e2.png)
 
 
-3. 학사 관리 기능 (사용자 등록)
+3. 학사 관리 기능 
+
+   - 사용자 등록
+   ![학사담당자1](https://user-images.githubusercontent.com/71927210/126895910-848a37ca-0e91-4b98-89fd-37b815649841.png)
+    
+
 
 5. 수업 관리 기능
 6. 수강 관리 기능
