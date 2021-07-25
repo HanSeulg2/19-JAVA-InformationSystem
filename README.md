@@ -40,7 +40,7 @@
     
    - 등록된 사용자 목록
    
-   ![사용자 목록](https://user-images.githubusercontent.com/71927210/126895964-085d0c46-171b-4400-85fd-445bcd552944.png)
+   ![사용자 목록](https://user-images.githubusercontent.com/71927210/126896022-5ca4090d-f67b-4fa8-85b9-0e67a4039784.png)
    
    - 사용자 DB 텍스트 테이블 
    
