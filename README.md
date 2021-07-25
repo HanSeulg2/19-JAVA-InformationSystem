@@ -61,5 +61,33 @@
 
 
 
-5. 수업 관리 기능
-6. 수강 관리 기능
+4. 수업 관리 기능
+5. 수강 관리 기능
+   - 학생 -수강신청 화면
+   
+   ![시용지 DB](https://user-images.githubusercontent.com/71927210/126895966-1357750b-ef9a-4546-82c9-94598fe6ccba.png)
+
+   - 수강 조회
+   
+   ![시용지 DB](https://user-images.githubusercontent.com/71927210/126895966-1357750b-ef9a-4546-82c9-94598fe6ccba.png)
+
+   - 수강 신청
+   
+   ![시용지 DB](https://user-images.githubusercontent.com/71927210/126895966-1357750b-ef9a-4546-82c9-94598fe6ccba.png)
+
+   - 수강 중복 체크
+   
+   ![시용지 DB](https://user-images.githubusercontent.com/71927210/126895966-1357750b-ef9a-4546-82c9-94598fe6ccba.png)
+
+   - 수강 최대 학점 체크
+   
+   ![시용지 DB](https://user-images.githubusercontent.com/71927210/126895966-1357750b-ef9a-4546-82c9-94598fe6ccba.png)
+
+   - 수강 인원 초과
+   
+   ![시용지 DB](https://user-images.githubusercontent.com/71927210/126895966-1357750b-ef9a-4546-82c9-94598fe6ccba.png)
+   
+   - 수강 성적확인
+   
+   ![시용지 DB](https://user-images.githubusercontent.com/71927210/126895966-1357750b-ef9a-4546-82c9-94598fe6ccba.png)
+
