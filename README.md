@@ -119,28 +119,34 @@
 6. 강좌 관리 기능
    - 수업 담당자 -강좌 등록 화면
    
-   ![수강신청](https://user-images.githubusercontent.com/71927210/126896261-7553a2f5-60db-4ba7-bca2-d01d88ec8313.png)
+   ![강좌 등록 화면](https://user-images.githubusercontent.com/71927210/126896597-8426debe-7160-4c79-adde-892085e2d202.png)
 
    - 강좌 등록
    
-   ![수강 조회](https://user-images.githubusercontent.com/71927210/126896258-731ed081-15d4-4863-a82f-a22d2817a1f8.png)
+   ![강좌 등록](https://user-images.githubusercontent.com/71927210/126896600-de2cd953-de51-4b8d-8cea-3b976fc27117.png)
 
    - 강좌 수정
    
-   ![수강 신청하기](https://user-images.githubusercontent.com/71927210/126896256-fea3980a-acaf-437d-87b1-1f11a93deae8.png)
+   ![강좌 수정](https://user-images.githubusercontent.com/71927210/126896601-10a5851b-689b-47b9-a03e-febd774ae4ad.png)
 
    - 강좌 삭제
    
-   ![수강 중복 체크](https://user-images.githubusercontent.com/71927210/126896259-56e21009-9d57-48c4-a449-01443ef6ad77.png)
+   ![강좌 삭제](https://user-images.githubusercontent.com/71927210/126896603-35322b20-abd6-4fc8-bbaf-794622d04c4b.png)
 
    - 강좌 전체 조회 및 상세 조회
    
-   ![수강 최대 학점](https://user-images.githubusercontent.com/71927210/126896260-501d6f84-014c-499d-8acb-573ce3543585.png)
+   ![강좌 전체 검색 및 상세 검색](https://user-images.githubusercontent.com/71927210/126896604-f846b6e8-e0d4-4b27-a9fd-73dbb4dce21c.png)
 
    - 강좌 청구서 발급
    
-   ![수강 인원 초과](https://user-images.githubusercontent.com/71927210/126896257-7913eec3-d052-4f8f-87b5-3535291e1717.png)
+   ![청구서 발급](https://user-images.githubusercontent.com/71927210/126896605-f373905f-d9a4-4375-bd63-c9425abae0ba.png)
    
+
+
+
+
+
+
 
 
 
