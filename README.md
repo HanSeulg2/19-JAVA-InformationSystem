@@ -65,29 +65,37 @@
 5. 수강 관리 기능
    - 학생 -수강신청 화면
    
-   ![시용지 DB](https://user-images.githubusercontent.com/71927210/126895966-1357750b-ef9a-4546-82c9-94598fe6ccba.png)
+   ![수강신청](https://user-images.githubusercontent.com/71927210/126896261-7553a2f5-60db-4ba7-bca2-d01d88ec8313.png)
 
    - 수강 조회
    
-   ![시용지 DB](https://user-images.githubusercontent.com/71927210/126895966-1357750b-ef9a-4546-82c9-94598fe6ccba.png)
+   ![수강 조회](https://user-images.githubusercontent.com/71927210/126896258-731ed081-15d4-4863-a82f-a22d2817a1f8.png)
 
    - 수강 신청
    
-   ![시용지 DB](https://user-images.githubusercontent.com/71927210/126895966-1357750b-ef9a-4546-82c9-94598fe6ccba.png)
+   ![수강 신청하기](https://user-images.githubusercontent.com/71927210/126896256-fea3980a-acaf-437d-87b1-1f11a93deae8.png)
 
    - 수강 중복 체크
    
-   ![시용지 DB](https://user-images.githubusercontent.com/71927210/126895966-1357750b-ef9a-4546-82c9-94598fe6ccba.png)
+   ![수강 중복 체크](https://user-images.githubusercontent.com/71927210/126896259-56e21009-9d57-48c4-a449-01443ef6ad77.png)
 
    - 수강 최대 학점 체크
    
-   ![시용지 DB](https://user-images.githubusercontent.com/71927210/126895966-1357750b-ef9a-4546-82c9-94598fe6ccba.png)
+   ![수강 최대 학점](https://user-images.githubusercontent.com/71927210/126896260-501d6f84-014c-499d-8acb-573ce3543585.png)
 
    - 수강 인원 초과
    
-   ![시용지 DB](https://user-images.githubusercontent.com/71927210/126895966-1357750b-ef9a-4546-82c9-94598fe6ccba.png)
+   ![수강 인원 초과](https://user-images.githubusercontent.com/71927210/126896257-7913eec3-d052-4f8f-87b5-3535291e1717.png)
    
    - 수강 성적확인
    
-   ![시용지 DB](https://user-images.githubusercontent.com/71927210/126895966-1357750b-ef9a-4546-82c9-94598fe6ccba.png)
+   ![수강 성적확인](https://user-images.githubusercontent.com/71927210/126896254-2367fbca-6c34-4dd7-978e-84272c7e423e.png)
+
+
+
+
+
+
+
+
 
