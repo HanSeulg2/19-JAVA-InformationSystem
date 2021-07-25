@@ -62,6 +62,24 @@
 
 
 4. 수업 관리 기능
+   - 교수 -출석부 화면
+   
+   ![수강신청](https://user-images.githubusercontent.com/71927210/126896261-7553a2f5-60db-4ba7-bca2-d01d88ec8313.png)
+
+   - 수강생 학번 조회
+   
+   ![수강 조회](https://user-images.githubusercontent.com/71927210/126896258-731ed081-15d4-4863-a82f-a22d2817a1f8.png)
+
+   - 수강생 성적 조회
+   
+   ![수강 신청하기](https://user-images.githubusercontent.com/71927210/126896256-fea3980a-acaf-437d-87b1-1f11a93deae8.png)
+
+   - 수강생 성적 입력
+   
+   ![수강 중복 체크](https://user-images.githubusercontent.com/71927210/126896259-56e21009-9d57-48c4-a449-01443ef6ad77.png)
+
+   - 수강생 성적 수정
+   
 5. 수강 관리 기능
    - 학생 -수강신청 화면
    
