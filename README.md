@@ -35,8 +35,17 @@
 3. 학사 관리 기능 
 
    - 사용자 등록
+   
    ![학사담당자1](https://user-images.githubusercontent.com/71927210/126895910-848a37ca-0e91-4b98-89fd-37b815649841.png)
     
+   - 등록된 사용자 목록
+   
+   ![사용자 목록](https://user-images.githubusercontent.com/71927210/126895964-085d0c46-171b-4400-85fd-445bcd552944.png)
+   
+   - 사용자 DB 텍스트 테이블 
+   
+   ![시용지 DB](https://user-images.githubusercontent.com/71927210/126895966-1357750b-ef9a-4546-82c9-94598fe6ccba.png)
+
 
 
 5. 수업 관리 기능
