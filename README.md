@@ -1,5 +1,15 @@
 # 대학종합정보시스템
 ![그림1](https://user-images.githubusercontent.com/71927210/126895277-98982d9a-16df-4a6f-92d2-a73d8349162e.png)
+### 시스템 구조
+![구조](https://user-images.githubusercontent.com/71927210/126896686-81eef6a6-8c1c-46d5-9970-2c4585d11fcd.png)
+### 학사 담당자
+![학사 담당자](https://user-images.githubusercontent.com/71927210/126896684-6ae76bfa-cfa6-425d-a370-9988e1160f00.png)
+### 교수
+![교수](https://user-images.githubusercontent.com/71927210/126896687-92bd28de-6a21-43c6-b518-352b5f488eb6.png)
+### 학생
+![학생](https://user-images.githubusercontent.com/71927210/126896688-c6d04c7d-9a5a-467d-80e0-591d57af486c.png)
+### 수업 담당자
+![수업 담당자](https://user-images.githubusercontent.com/71927210/126896689-45b091e1-dcad-4677-b6f2-8b1a884e9374.png)
 
 ## 주요기능
 1. 로그인 기능
