@@ -10,6 +10,22 @@
    - 로그인 실패
    
     ![로그인 실패](https://user-images.githubusercontent.com/71927210/126895338-8b0c4608-0e6c-4abd-a8cb-e242c6684e57.png)
+    
+   - 학사 담당자 로그인 화면
+ 
+    ![학사담당자](https://user-images.githubusercontent.com/71927210/126895608-e4e27963-0276-41d4-8e1e-c9e5d1145f03.png)
+
+   - 교수 로그인 화면
+ 
+    ![교수](https://user-images.githubusercontent.com/71927210/126895605-47defcf5-406d-4d19-afbf-9889c95c1574.png)
+
+   - 학생 로그인 화면
+   
+    ![학생](https://user-images.githubusercontent.com/71927210/126895607-e2e73aa3-83d8-4bae-9a2a-ea2b7fe0577a.png)
+
+   - 수업 담당자 화면
+   
+    ![수업담당자](https://user-images.githubusercontent.com/71927210/126895610-12ae8ab7-4bfc-4560-a35e-e11cfdac0000.png)
 
 
 3. 학사 관리 기능
