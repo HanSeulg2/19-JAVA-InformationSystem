@@ -31,35 +31,33 @@
     
 ![로그인](https://user-images.githubusercontent.com/71927210/129730209-a0fbf47b-ccea-457f-b790-327de2739cd9.png)
 ## 구현
-1. 로그인 기능
-
    - 로그인 성공
  
-    ![로그인 성공](https://user-images.githubusercontent.com/71927210/126895340-1eda8ef0-1d1e-4c6c-bcc9-cde90baa3112.png)
+   ![로그인 성공](https://user-images.githubusercontent.com/71927210/126895340-1eda8ef0-1d1e-4c6c-bcc9-cde90baa3112.png)
 
    - 로그인 실패
    
-    ![로그인 실패](https://user-images.githubusercontent.com/71927210/126895338-8b0c4608-0e6c-4abd-a8cb-e242c6684e57.png)
+   ![로그인 실패](https://user-images.githubusercontent.com/71927210/126895338-8b0c4608-0e6c-4abd-a8cb-e242c6684e57.png)
     
    - 학사 담당자 로그인 
  
-    ![학사담당자](https://user-images.githubusercontent.com/71927210/126895608-e4e27963-0276-41d4-8e1e-c9e5d1145f03.png)
+   ![학사담당자](https://user-images.githubusercontent.com/71927210/126895608-e4e27963-0276-41d4-8e1e-c9e5d1145f03.png)
 
    - 교수 로그인 
  
-    ![교수](https://user-images.githubusercontent.com/71927210/126895605-47defcf5-406d-4d19-afbf-9889c95c1574.png)
+   ![교수](https://user-images.githubusercontent.com/71927210/126895605-47defcf5-406d-4d19-afbf-9889c95c1574.png)
 
    - 학생 로그인 
    
-    ![학생](https://user-images.githubusercontent.com/71927210/126895607-e2e73aa3-83d8-4bae-9a2a-ea2b7fe0577a.png)
+   ![학생](https://user-images.githubusercontent.com/71927210/126895607-e2e73aa3-83d8-4bae-9a2a-ea2b7fe0577a.png)
 
    - 수업 담당자 로그인
    
-    ![수업담당자](https://user-images.githubusercontent.com/71927210/126895610-12ae8ab7-4bfc-4560-a35e-e11cfdac0000.png)
+   ![수업담당자](https://user-images.githubusercontent.com/71927210/126895610-12ae8ab7-4bfc-4560-a35e-e11cfdac0000.png)
     
    - 사용자 개인정보 수정 
    
-    ![사용자 개인정보 수정](https://user-images.githubusercontent.com/71927210/126895703-87341c46-5737-4595-85e4-1c7df65803e2.png)
+   ![사용자 개인정보 수정](https://user-images.githubusercontent.com/71927210/126895703-87341c46-5737-4595-85e4-1c7df65803e2.png)
 # 학사 담당자
 ## 분석
 1. 학사관리자는 사용자의 등록, 조회, 삭제 기능을 가지고 있다.
@@ -79,8 +77,6 @@
 
 ![학사담당자](https://user-images.githubusercontent.com/71927210/129732403-64997d4e-ca0f-4ca5-be46-985f1f77f365.png)
 ## 구현
-2. 학사 관리 기능 
-
    - 사용자 등록
    
    ![학사담당자1](https://user-images.githubusercontent.com/71927210/126895910-848a37ca-0e91-4b98-89fd-37b815649841.png)
@@ -150,9 +146,9 @@
 7. 최대수강인원이 수강하게 되었음을 알리고 강좌는 추가되지 않는다.
 8. 개설된 강좌목록이 저장된 “강좌목록.txt”파일과 신청한 강좌가 저장될 “데이터베이스.txt” 파일이 필요하다.
 9. 이벤트처리기 클래스를 이용하여 현재 사용자의 이름과 학번을 받고 JTable에서 선택된 열의 값을 변수를 통해서 받아와 함께 “데이터베이스.txt” 파일에 저장한다.
-![수강신청](https://user-images.githubusercontent.com/71927210/129734392-20a0e6a3-b15d-4f92-92d5-25dc34d7d095.png)
 
-4. 수강 관리 기능
+![수강신청](https://user-images.githubusercontent.com/71927210/129734392-20a0e6a3-b15d-4f92-92d5-25dc34d7d095.png)
+## 구현
    - 학생 -수강신청 화면
    
    ![수강신청](https://user-images.githubusercontent.com/71927210/126896261-7553a2f5-60db-4ba7-bca2-d01d88ec8313.png)
