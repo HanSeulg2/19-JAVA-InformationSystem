@@ -1,18 +1,38 @@
 # 대학종합정보시스템
 ![그림1](https://user-images.githubusercontent.com/71927210/126895277-98982d9a-16df-4a6f-92d2-a73d8349162e.png)
-### 시스템 구조
+#### 시스템 구조
 ![구조](https://user-images.githubusercontent.com/71927210/126896686-81eef6a6-8c1c-46d5-9970-2c4585d11fcd.png)
-### 학사 담당자
+#### 학사 담당자
 ![학사 담당자](https://user-images.githubusercontent.com/71927210/126896684-6ae76bfa-cfa6-425d-a370-9988e1160f00.png)
-### 교수
+#### 교수
 ![교수](https://user-images.githubusercontent.com/71927210/126896687-92bd28de-6a21-43c6-b518-352b5f488eb6.png)
-### 학생
+#### 학생
 ![학생](https://user-images.githubusercontent.com/71927210/126896688-c6d04c7d-9a5a-467d-80e0-591d57af486c.png)
-### 수업 담당자
+#### 수업 담당자
 ![수업 담당자](https://user-images.githubusercontent.com/71927210/126896689-45b091e1-dcad-4677-b6f2-8b1a884e9374.png)
 
-## 주요기능
+## 분석
+3. 사용자 데이터에 존재하는 아이디와 비밀번호가 일치할 경우 로그인 성공한다.
+4. 사용자는 로그인할 수 있다.
+5. 로그인 성공 시 사용자에 따라 창이 다르게 구성된다.
+6. 사용자는 초기 비밀번호를 변경할 수 있다.
+
+## 설계
+1. 사용자의 데이터를 읽기 위해서 “회원정보.txt”를 Reader합니다.
+2. “회원정보.txt”를 처음부터 끝까지 Reader합니다.
+3. Reader한 정보를 아이디와 비밀번호 구분합니다.
+4. 학번과 비밀번호를 입력하기 위해서 JTextField가 필요합니다.
+5. 학번과 비밀번호가 일치할 경우 로그인 성공합니다.
+6. 학번 정보 중 
+    -  s를 가지면 학생으로 로그인됩니다.
+    -  p를 가지면 교수로 로그인됩니다.
+    -  h를 가지면 학사담당자로 로그인됩니다.
+    -  g를 가지면 수업담당자로 로그인됩니다.
+    
+![로그인](https://user-images.githubusercontent.com/71927210/129730209-a0fbf47b-ccea-457f-b790-327de2739cd9.png)
+## 구현
 1. 로그인 기능
+
    - 로그인 성공
  
     ![로그인 성공](https://user-images.githubusercontent.com/71927210/126895340-1eda8ef0-1d1e-4c6c-bcc9-cde90baa3112.png)
