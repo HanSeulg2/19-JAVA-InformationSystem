@@ -1,3 +1,4 @@
+<!--
 # 대학종합정보시스템
 ![그림1](https://user-images.githubusercontent.com/71927210/126895277-98982d9a-16df-4a6f-92d2-a73d8349162e.png)
 #### 시스템 구조
